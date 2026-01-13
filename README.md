@@ -31,10 +31,10 @@ cd Python-com-Flask
 pip install -r requirements.txt
 python application.py
 
-🎓 Contexto
+## 🎓 Contexto
 
 Projeto desenvolvido durante um curso introdutório da Rocketseat, com fins educacionais e foco no aprendizado prático de Flask e APIs REST.
 
-📎 Observação
+## 📎 Observação
 
 Este projeto não tem finalidade de produção, sendo utilizado para estudo e consolidação de conceitos.
