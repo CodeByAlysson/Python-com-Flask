@@ -25,10 +25,12 @@ Este projeto implementa uma API simples de e-commerce, aplicando conceitos funda
 
 ## ▶️ Execução
 
-```bash
 git clone https://github.com/CodeByAlysson/Python-com-Flask.git
+
 cd Python-com-Flask
+
 pip install -r requirements.txt
+
 python application.py
 
 ## 🎓 Contexto
